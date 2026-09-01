@@ -155,16 +155,6 @@ A collection of HTML and CSS projects exploring UI components, layouts and front
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikitagupta2412&show_icons=true&hide_border=true&include_all_commits=true&title_color=ff69b4&icon_color=ff69b4&text_color=777777" height="180" alt="GitHub Stats"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikitagupta2412&layout=donut&hide_border=true&langs_count=6&title_color=ff69b4&text_color=777777" height="180" alt="Top Languages"/>
-</p>
-
----
-
 # 🔥 Contribution Streak
 
 <p align="center">
