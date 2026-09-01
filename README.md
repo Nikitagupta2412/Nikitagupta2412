@@ -3,18 +3,18 @@
 ### 🤖 AI & Data Science Student | 🐍 Python Developer | 🚀 Building Projects & Learning in Public
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikitagupta2412&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Nikitagupta2412&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-* 🔭 Currently working on **Python projects and real-world applications**
-* 🌱 Currently learning **Python, Pandas, OOP, NumPy, AI & Data Science**
-* 👯 Looking to collaborate on **beginner-friendly Python, AI & Data Science projects**
-* 🤝 Looking for help with **Open Source contributions and GSoC preparation**
-* 💻 All my projects: **[GitHub Repositories](https://github.com/Nikitagupta2412?tab=repositories)**
+* 🔭 I’m currently working on **Python projects and real-world applications**
+* 🌱 I’m currently learning **Python, Pandas, OOP, NumPy, AI & Data Science**
+* 👯 I’m looking to collaborate on **beginner-friendly Python, AI & Data Science projects**
+* 🤝 I’m looking for help with **Open Source contributions and GSoC preparation**
+* 💻 All my projects are available on my **[GitHub](https://github.com/Nikitagupta2412?tab=repositories)**
 * 🎥 I regularly create content on **YouTube**
 * 💬 Ask me about **Python, beginner programming & content creation**
 * ⚡ Fun fact: **I'm a dancer and love speaking!**
@@ -33,15 +33,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" width="45" height="45" alt="Streamlit"/>
 </p>
 
-### 📚 Currently Exploring
-
-**Data Analysis • AI • Data Science • Open Source • GSoC**
+**Core Concepts:** Python OOP • JSON • File Handling
 
 ---
 
 ## 🚀 Featured Projects
-
-Here are some of the projects I'm building while learning Python and software development.
 
 ### 📊 Expense Tracker
 
@@ -51,31 +47,37 @@ A Python-based application for tracking and managing expenses.
 
 ### 🏫 School Management System
 
-A Python/Streamlit application for managing school-related data and workflows.
+A school management application built while exploring Python, OOP, JSON and Streamlit.
 
-**Tech:** Python • OOP • Streamlit • JSON
+**Tech:** Python • OOP • JSON • Streamlit
 
 ### 📚 Library Management System
 
-A Python project focused on managing books and library records.
+A Python project for managing books and library records.
 
 **Tech:** Python • OOP
 
 ### 📝 Journal App
 
-A Python-based journal application for creating and managing journal entries.
+A Python-based application for creating and managing journal entries.
 
 **Tech:** Python
 
-> 🔎 More projects are available on my **[GitHub](https://github.com/Nikitagupta2412?tab=repositories)**.
+### ✅ To-Do List
+
+A simple Python application for creating and managing tasks.
+
+**Tech:** Python
+
+🔎 **[Explore all my projects →](https://github.com/Nikitagupta2412?tab=repositories)**
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikitagupta2412&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikitagupta2412&layout=compact&hide_border=true&langs_count=8" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikitagupta2412&show_icons=true&hide_border=true&include_all_commits=true" height="180" alt="Nikita's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikitagupta2412&layout=compact&hide_border=true&langs_count=8" height="180" alt="Nikita's Top Languages" />
 </p>
 
 ---
@@ -83,7 +85,7 @@ A Python-based journal application for creating and managing journal entries.
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Nikitagupta2412&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Nikitagupta2412&hide_border=true" height="180" alt="Nikita's GitHub Contribution Streak" />
 </p>
 
 ---
@@ -91,7 +93,7 @@ A Python-based journal application for creating and managing journal entries.
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikitagupta2412&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikitagupta2412" alt="Nikita's GitHub Contribution Activity" />
 </p>
 
 ---
@@ -99,23 +101,30 @@ A Python-based journal application for creating and managing journal entries.
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nikitagupta2412&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nikitagupta2412&row=1&column=6&margin-w=15&margin-h=15" alt="Nikita's GitHub Trophies" />
 </p>
 
 ---
 
-# 📌 My Goals
+# 🎯 My Goals
 
 * 🐍 Strengthen my Python skills
-* 📊 Become stronger in Data Analysis & Data Science
-* 🤖 Explore Artificial Intelligence & Machine Learning
-* 🌐 Start contributing to Open Source
+* 📊 Become stronger in **Pandas, NumPy & Data Analysis**
+* 🤖 Explore **AI & Machine Learning**
+* 🌐 Start contributing to **Open Source**
 * 🚀 Prepare for **Google Summer of Code (GSoC)**
-* 💡 Build meaningful real-world projects
+* 💡 Build meaningful **real-world projects**
+* 📚 Keep learning and sharing my progress
 
 ---
 
-## 🤝 Let's Connect
+# 🌱 Currently Learning
+
+**Python • Pandas • NumPy • OOP • AI • Data Science • Open Source**
+
+---
+
+## 🤝 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nikita-gupta-3ba3a53b1/">
@@ -136,7 +145,7 @@ A Python-based journal application for creating and managing journal entries.
 ---
 
 <p align="center">
-  <b>⭐ Thanks for visiting my profile!</b>
+  ⭐ <b>Thanks for visiting my profile!</b> ⭐
 </p>
 
 <p align="center">
