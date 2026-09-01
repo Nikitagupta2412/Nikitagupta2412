@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikita Gupta</h1>
 
 <h3 align="center">
-  🤖 AI & Data Science Student • 🐍 Python Developer • 🌱 Learning in Public
+  🤖 AI & Data Science Student • 🐍 Python Developer • 🌱 Content Creator
 </h3>
 
 <p align="center">
