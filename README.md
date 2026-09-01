@@ -1,83 +1,167 @@
-# Hi 👋, I'm Nikita Gupta
+<h1 align="center">Hi 👋, I'm Nikita Gupta</h1>
 
-### 🤖 AI & Data Science Student | 🐍 Python Developer | 🚀 Building Projects & Learning in Public
+<h3 align="center">
+  🤖 AI & Data Science Student • 🐍 Python Developer • 🌱 Learning in Public
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nikitagupta2412&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Nikitagupta2412&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center">
+  ✨ Building • Learning • Creating • Growing ✨
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 🌷 About Me
 
-* 🔭 I’m currently working on **Python projects and real-world applications**
-* 🌱 I’m currently learning **Python, Pandas, OOP, NumPy, AI & Data Science**
-* 👯 I’m looking to collaborate on **beginner-friendly Python, AI & Data Science projects**
-* 🤝 I’m looking for help with **Open Source contributions and GSoC preparation**
-* 💻 All my projects are available on my **[GitHub](https://github.com/Nikitagupta2412?tab=repositories)**
-* 🎥 I regularly create content on **YouTube**
-* 💬 Ask me about **Python, beginner programming & content creation**
-* ⚡ Fun fact: **I'm a dancer and love speaking!**
+🎓 AI & Data Science student passionate about **Python, Data Science and technology**
+
+🐍 Currently building **Python projects and real-world applications**
+
+📊 Learning **Pandas, NumPy and Data Analysis**
+
+🤖 Exploring **AI & Data Science**
+
+🌐 Interested in **Open Source & GSoC**
+
+💡 I believe in **learning by building**
+
+🎀 Fun fact: **I'm a dancer and love speaking!**
 
 ---
 
-## 🛠️ Languages & Tools
+## 🌱 Currently Learning
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" width="45" height="45" alt="Streamlit"/>
+<p align="center">
+
+🐍 Python   •  
+🐼 Pandas   •  
+🔢 NumPy   •  
+🧩 OOP   •  
+🤖 AI   •  
+📊 Data Science
+
 </p>
 
-**Core Concepts:** Python OOP • JSON • File Handling
+### 🚀 My Goals
+
+* 🌐 Start contributing to **Open Source**
+* 🧩 Learn how real-world open-source projects work
+* 🚀 Prepare for **GSoC**
+* 📊 Strengthen my Data Science skills
+* 💻 Build meaningful real-world projects
+* 🌱 Keep learning and sharing my progress
 
 ---
 
-## 🚀 Featured Projects
+# 🛠️ Languages & Tools
 
-### 📊 Expense Tracker
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,mysql,git,github,streamlit,html,css" />
+</p>
 
-A Python-based application for tracking and managing expenses.
+<p align="center">
+  <b>Python • Pandas • NumPy • MySQL • Git • GitHub • Streamlit • HTML • CSS</b>
+</p>
 
-**Tech:** Python
+---
 
-### 🏫 School Management System
+# 🎀 Featured Projects
 
-A school management application built while exploring Python, OOP, JSON and Streamlit.
+<p align="center">
+  <i>A collection of projects documenting my journey through Python, OOP, NumPy, Data Science and Frontend Development.</i>
+</p>
 
-**Tech:** Python • OOP • JSON • Streamlit
+<table>
+<tr>
 
-### 📚 Library Management System
+<td width="50%">
 
-A Python project for managing books and library records.
+<h3>🔢 NumPy Projects</h3>
 
-**Tech:** Python • OOP
+A collection of NumPy-based mini projects exploring numerical operations, data analysis and real-world datasets.
 
-### 📝 Journal App
+<b>Tech:</b> Python • NumPy
 
-A Python-based application for creating and managing journal entries.
+<br><br>
 
-**Tech:** Python
+<a href="https://github.com/Nikitagupta2412/NUMPY_PROJECTS">
+  <b>✨ View Repository →</b>
+</a>
 
-### ✅ To-Do List
+</td>
 
-A simple Python application for creating and managing tasks.
+<td width="50%">
 
-**Tech:** Python
+<h3>🧩 OOP Projects</h3>
 
-🔎 **[Explore all my projects →](https://github.com/Nikitagupta2412?tab=repositories)**
+A collection of Python projects exploring Object-Oriented Programming, authentication, JSON persistence and application development.
+
+<b>Tech:</b> Python • OOP • JSON • Streamlit
+
+<br><br>
+
+<a href="https://github.com/Nikitagupta2412/OOP_PROJECTS">
+  <b>✨ View Repository →</b>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3>💰 Expense Tracker</h3>
+
+A Python expense-tracking application built to practice real-world application development and persistent data storage.
+
+<b>Tech:</b> Python • JSON
+
+<br><br>
+
+<a href="https://github.com/Nikitagupta2412/EXPENSE_TRACKER_APP">
+  <b>✨ View Repository →</b>
+</a>
+
+</td>
+
+<td width="50%">
+
+<h3>🎨 Frontend Projects</h3>
+
+A collection of HTML and CSS projects exploring UI components, layouts and frontend design.
+
+<b>Tech:</b> HTML • CSS
+
+<br><br>
+
+<a href="https://github.com/Nikitagupta2412/Frontend_Projects">
+  <b>✨ View Repository →</b>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/Nikitagupta2412?tab=repositories">
+    <b>🌸 Explore All My Projects →</b>
+  </a>
+</p>
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikitagupta2412&show_icons=true&hide_border=true&include_all_commits=true" height="180" alt="Nikita's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikitagupta2412&layout=compact&hide_border=true&langs_count=8" height="180" alt="Nikita's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikitagupta2412&show_icons=true&hide_border=true&include_all_commits=true&title_color=ff69b4&icon_color=ff69b4&text_color=777777" height="180" alt="Nikita's GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikitagupta2412&layout=compact&hide_border=true&langs_count=8&title_color=ff69b4&text_color=777777" height="180" alt="Nikita's Top Languages" />
 </p>
 
 ---
@@ -85,69 +169,67 @@ A simple Python application for creating and managing tasks.
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Nikitagupta2412&hide_border=true" height="180" alt="Nikita's GitHub Contribution Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Nikitagupta2412&hide_border=true&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" height="180" alt="Nikita's GitHub Contribution Streak" />
 </p>
 
 ---
 
-# 📈 Contribution Activity
+# 🌸 GitHub Contribution Overview
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikitagupta2412" alt="Nikita's GitHub Contribution Activity" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikitagupta2412&theme=rose_pine" width="95%" alt="Nikita's GitHub Contribution Overview" />
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+# 💻 My Coding Journey
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nikitagupta2412&row=1&column=6&margin-w=15&margin-h=15" alt="Nikita's GitHub Trophies" />
+
+🌱 Learning <br>
+↓ <br>
+🐍 Python <br>
+↓ <br>
+📊 NumPy & Pandas <br>
+↓ <br>
+🤖 AI & Data Science <br>
+↓ <br>
+🌐 Open Source <br>
+↓ <br>
+🚀 GSoC
+
 </p>
 
 ---
 
-# 🎯 My Goals
+# 🤝 Let's Connect
 
-* 🐍 Strengthen my Python skills
-* 📊 Become stronger in **Pandas, NumPy & Data Analysis**
-* 🤖 Explore **AI & Machine Learning**
-* 🌐 Start contributing to **Open Source**
-* 🚀 Prepare for **Google Summer of Code (GSoC)**
-* 💡 Build meaningful **real-world projects**
-* 📚 Keep learning and sharing my progress
+<p align="center">
 
----
+<a href="https://www.linkedin.com/in/nikita-gupta-3ba3a53b1/">
+  <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-# 🌱 Currently Learning
+<a href="https://www.instagram.com/nikita_gupta_2412/">
+  <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
-**Python • Pandas • NumPy • OOP • AI • Data Science • Open Source**
+<a href="https://youtube.com/@nikitagupta555">
+  <img src="https://img.shields.io/badge/YouTube-ff69b4?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/nikita-gupta-3ba3a53b1/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" height="35" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/nikita_gupta_2412/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35" height="35" alt="Instagram"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://youtube.com/@nikitagupta555">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="35" height="35" alt="YouTube"/>
-  </a>
 </p>
 
-📫 **Email:** [pg516490@gmail.com](mailto:pg516490@gmail.com)
+<p align="center">
+  📫 <b>Email:</b> pg516490@gmail.com
+</p>
 
 ---
 
 <p align="center">
-  ⭐ <b>Thanks for visiting my profile!</b> ⭐
+  ✨ <b>Thanks for visiting my profile!</b> ✨
 </p>
 
 <p align="center">
-  <i>Building • Learning • Sharing • Growing 🚀</i>
+  <i>Keep learning • Keep building • Keep growing 🌷</i>
 </p>
