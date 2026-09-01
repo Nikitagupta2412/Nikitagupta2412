@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nikitagupta2412&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Nikitagupta2412&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views"/>
 </p>
 
 <p align="center">
@@ -45,18 +45,9 @@
 
 </p>
 
-### 🚀 My Goals
-
-* 🌐 Start contributing to **Open Source**
-* 🧩 Learn how real-world open-source projects work
-* 🚀 Prepare for **GSoC**
-* 📊 Strengthen my Data Science skills
-* 💻 Build meaningful real-world projects
-* 🌱 Keep learning and sharing my progress
-
 ---
 
-# 🛠️ Languages & Tools
+## 🛠️ Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pandas,numpy,mysql,git,github,streamlit,html,css" />
@@ -71,40 +62,44 @@
 # 🎀 Featured Projects
 
 <p align="center">
-  <i>A collection of projects documenting my journey through Python, OOP, NumPy, Data Science and Frontend Development.</i>
+  <i>Projects I've built while learning and exploring different areas of development.</i>
 </p>
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3>🔢 NumPy Projects</h3>
 
-A collection of NumPy-based mini projects exploring numerical operations, data analysis and real-world datasets.
+A collection of NumPy-based projects exploring numerical operations, data analysis and real-world datasets.
+
+<br>
 
 <b>Tech:</b> Python • NumPy
 
 <br><br>
 
 <a href="https://github.com/Nikitagupta2412/NUMPY_PROJECTS">
-  <b>✨ View Repository →</b>
+  <img src="https://img.shields.io/badge/Explore%20Project-ff69b4?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3>🧩 OOP Projects</h3>
 
-A collection of Python projects exploring Object-Oriented Programming, authentication, JSON persistence and application development.
+Python projects exploring Object-Oriented Programming, authentication, JSON persistence and application development.
+
+<br>
 
 <b>Tech:</b> Python • OOP • JSON • Streamlit
 
 <br><br>
 
 <a href="https://github.com/Nikitagupta2412/OOP_PROJECTS">
-  <b>✨ View Repository →</b>
+  <img src="https://img.shields.io/badge/Explore%20Project-ff69b4?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -113,34 +108,38 @@ A collection of Python projects exploring Object-Oriented Programming, authentic
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3>💰 Expense Tracker</h3>
 
-A Python expense-tracking application built to practice real-world application development and persistent data storage.
+A Python application for tracking expenses and practicing persistent data storage using JSON.
+
+<br>
 
 <b>Tech:</b> Python • JSON
 
 <br><br>
 
 <a href="https://github.com/Nikitagupta2412/EXPENSE_TRACKER_APP">
-  <b>✨ View Repository →</b>
+  <img src="https://img.shields.io/badge/Explore%20Project-ff69b4?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3>🎨 Frontend Projects</h3>
 
 A collection of HTML and CSS projects exploring UI components, layouts and frontend design.
+
+<br>
 
 <b>Tech:</b> HTML • CSS
 
 <br><br>
 
 <a href="https://github.com/Nikitagupta2412/Frontend_Projects">
-  <b>✨ View Repository →</b>
+  <img src="https://img.shields.io/badge/Explore%20Project-ff69b4?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -150,7 +149,7 @@ A collection of HTML and CSS projects exploring UI components, layouts and front
 
 <p align="center">
   <a href="https://github.com/Nikitagupta2412?tab=repositories">
-    <b>🌸 Explore All My Projects →</b>
+    🌸 <b>Explore All My Projects →</b>
   </a>
 </p>
 
@@ -159,9 +158,9 @@ A collection of HTML and CSS projects exploring UI components, layouts and front
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikitagupta2412&show_icons=true&hide_border=true&include_all_commits=true&title_color=ff69b4&icon_color=ff69b4&text_color=777777" height="180" alt="Nikita's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikitagupta2412&show_icons=true&hide_border=true&include_all_commits=true&title_color=ff69b4&icon_color=ff69b4&text_color=777777" height="180" alt="GitHub Stats"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikitagupta2412&layout=compact&hide_border=true&langs_count=8&title_color=ff69b4&text_color=777777" height="180" alt="Nikita's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikitagupta2412&layout=donut&hide_border=true&langs_count=6&title_color=ff69b4&text_color=777777" height="180" alt="Top Languages"/>
 </p>
 
 ---
@@ -169,100 +168,59 @@ A collection of HTML and CSS projects exploring UI components, layouts and front
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Nikitagupta2412&hide_border=true&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" height="180" alt="Nikita's GitHub Contribution Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Nikitagupta2412&hide_border=true&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideLabels=ff69b4" height="180" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
-# 📊 GitHub Analytics
+
+# 🌸 GitHub Profile
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikitagupta2412&show_icons=true&hide_border=true&include_all_commits=true&title_color=ff69b4&icon_color=ff69b4&text_color=777777" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikitagupta2412&layout=donut&hide_border=true&langs_count=6&title_color=ff69b4&text_color=777777" height="180" />
+  <a href="https://github.com/Nikitagupta2412">
+    <img src="https://img.shields.io/badge/⭐%20View%20My%20GitHub%20Profile-ff69b4?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
-
----
-
-# 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Nikitagupta2412&hide_border=true&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" height="180" />
+  <i>My GitHub profile contains my contribution calendar, activity timeline, repositories and pinned projects.</i>
 </p>
 
 ---
 
-# 🎀 Featured Projects
+# 🎯 What I'm Working Towards
 
-<table>
-<tr>
+<p align="center">
 
-<td align="center" width="50%">
+🌱 **Learn**
+   •   
+💻 **Build**
+   •   
+📊 **Explore Data Science**
+   •   
+🤖 **Explore AI**
+   •   
+🌐 **Open Source**
+   •   
+🚀 **GSoC**
 
-### 🔢 NumPy Projects
+</p>
 
-Python & NumPy projects exploring data analysis and real-world datasets.
+---
 
-<a href="https://github.com/Nikitagupta2412/NUMPY_PROJECTS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikitagupta2412&repo=NUMPY_PROJECTS&theme=default&hide_border=true" />
-</a>
-
-</td>
-
-<td align="center" width="50%">
-
-### 🧩 OOP Projects
-
-Python projects exploring OOP, authentication, JSON persistence and Streamlit.
-
-<a href="https://github.com/Nikitagupta2412/OOP_PROJECTS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikitagupta2412&repo=OOP_PROJECTS&theme=default&hide_border=true" />
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="50%">
-
-### 💰 Expense Tracker
-
-A Python application for tracking expenses with persistent JSON data.
-
-<a href="https://github.com/Nikitagupta2412/EXPENSE_TRACKER_APP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikitagupta2412&repo=EXPENSE_TRACKER_APP&theme=default&hide_border=true" />
-</a>
-
-</td>
-
-<td align="center" width="50%">
-
-### 🎨 Frontend Projects
-
-A collection of HTML & CSS projects exploring UI design and layouts.
-
-<a href="https://github.com/Nikitagupta2412/Frontend_Projects">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikitagupta2412&repo=Frontend_Projects&theme=default&hide_border=true" />
-</a>
-
-</td>
-
-</tr>
-</table>
 # 🤝 Let's Connect
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/nikita-gupta-3ba3a53b1/">
-  <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/nikita_gupta_2412/">
-  <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://youtube.com/@nikitagupta555">
-  <img src="https://img.shields.io/badge/YouTube-ff69b4?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/YouTube-ff69b4?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 </p>
@@ -274,9 +232,9 @@ A collection of HTML & CSS projects exploring UI design and layouts.
 ---
 
 <p align="center">
-  ✨ <b>Thanks for visiting my profile!</b> ✨
+  💗 <b>Thanks for visiting my profile!</b> 💗
 </p>
 
 <p align="center">
-  <i>Keep learning • Keep building • Keep growing 🌷</i>
+  <i>Keep learning • Keep building • Keep growing ✨</i>
 </p>
