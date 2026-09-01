@@ -173,35 +173,82 @@ A collection of HTML and CSS projects exploring UI components, layouts and front
 </p>
 
 ---
-
-# 🌸 GitHub Contribution Overview
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikitagupta2412&theme=rose_pine" width="95%" alt="Nikita's GitHub Contribution Overview" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikitagupta2412&show_icons=true&hide_border=true&include_all_commits=true&title_color=ff69b4&icon_color=ff69b4&text_color=777777" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikitagupta2412&layout=donut&hide_border=true&langs_count=6&title_color=ff69b4&text_color=777777" height="180" />
 </p>
 
 ---
 
-# 💻 My Coding Journey
+# 🔥 Contribution Streak
 
 <p align="center">
-
-🌱 Learning <br>
-↓ <br>
-🐍 Python <br>
-↓ <br>
-📊 NumPy & Pandas <br>
-↓ <br>
-🤖 AI & Data Science <br>
-↓ <br>
-🌐 Open Source <br>
-↓ <br>
-🚀 GSoC
-
+  <img src="https://streak-stats.demolab.com/?user=Nikitagupta2412&hide_border=true&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" height="180" />
 </p>
 
 ---
 
+# 🎀 Featured Projects
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+### 🔢 NumPy Projects
+
+Python & NumPy projects exploring data analysis and real-world datasets.
+
+<a href="https://github.com/Nikitagupta2412/NUMPY_PROJECTS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikitagupta2412&repo=NUMPY_PROJECTS&theme=default&hide_border=true" />
+</a>
+
+</td>
+
+<td align="center" width="50%">
+
+### 🧩 OOP Projects
+
+Python projects exploring OOP, authentication, JSON persistence and Streamlit.
+
+<a href="https://github.com/Nikitagupta2412/OOP_PROJECTS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikitagupta2412&repo=OOP_PROJECTS&theme=default&hide_border=true" />
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
+
+### 💰 Expense Tracker
+
+A Python application for tracking expenses with persistent JSON data.
+
+<a href="https://github.com/Nikitagupta2412/EXPENSE_TRACKER_APP">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikitagupta2412&repo=EXPENSE_TRACKER_APP&theme=default&hide_border=true" />
+</a>
+
+</td>
+
+<td align="center" width="50%">
+
+### 🎨 Frontend Projects
+
+A collection of HTML & CSS projects exploring UI design and layouts.
+
+<a href="https://github.com/Nikitagupta2412/Frontend_Projects">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikitagupta2412&repo=Frontend_Projects&theme=default&hide_border=true" />
+</a>
+
+</td>
+
+</tr>
+</table>
 # 🤝 Let's Connect
 
 <p align="center">
